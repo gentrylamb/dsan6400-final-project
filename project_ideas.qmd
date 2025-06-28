@@ -1,0 +1,101 @@
+# Project Ideas
+
+---
+
+## 1. Book Network and Recommendation System
+
+- Construct networks of books based on metadata and textual similarity, like genres, authorship, publication date, themes
+
+- Use network analysis and embedding techniques to identify clusters of similar books and recommend titles within those clusters
+
+- Enable discovery of related or niche books purely from book content and attributes
+
+### Data Sources:
+
+- Project Gutenberg (full texts and metadata)
+
+- Open Library (book metadata and subject classifications)
+
+- Goodreads or Wikidata (book summaries and thematic tags)
+
+---
+
+## 2. Network Analysis of National Park Hiking Systems
+
+- Model hiking trails as spatial networks: nodes = trail junctions, edges = paths weighted by distance, elevation, or difficulty
+
+- Use geospatial data from parks like Yosemite and Zion
+
+- Analyze network structure to find key trails, bottlenecks, and modular trail regions
+
+- Apply centrality, clustering, and shortest path analysis
+  
+- Simulate optimal hiking routes and test trail system robustness to closures
+  
+- Use neural networks to algorithmically generate the most “scenic” loop hikes based on elevation, viewpoints, and proximity to natural features like rivers and lakes
+
+### Data Sources:
+
+- OpenStreetMap (trail maps and geospatial data)
+
+- U.S. National Park Service GIS data (https://irma.nps.gov/DataStore/)
+
+- AllTrails or Hiking Project API (trail metadata)
+
+- USGS Elevation data (DEM files for elevation and terrain)
+
+---
+
+## 3. Global Shipping Route Networks
+
+- Nodes = major ports; edges = shipping routes weighted by frequency or cargo volume
+
+- Analyze global trade connectivity, bottlenecks, and hub importance
+
+- Simulate disruption effects on trade flows
+
+### Data Sources:
+
+- Automatic Identification System (AIS) ship tracking data (https://www.marinetraffic.com/)
+
+- UNCTAD Review of Maritime Transport datasets
+
+- World Port Index (NOAA)
+
+---
+
+## 4. Urban Bike Network Connectivity
+
+- Nodes = bike path intersections; edges = bike paths weighted by length, slope, traffic
+
+- Analyze efficiency, bottlenecks, and coverage in cities
+
+- Simulate route optimizations and failure impacts
+
+### Data Sources:
+
+- OpenStreetMap (bike path data)
+
+- City open data portals (e.g. NYC Open Data, San Francisco Open Data)
+
+- Strava Metro (aggregated cycling route data; requires access)
+
+- National Bicycle & Pedestrian Documentation Project
+
+---
+
+## 5. Movie Collaboration Networks and Box Office Success Prediction
+
+- Nodes = actors, directors, producers; edges = collaborations
+
+- Use GNNs to predict box office success or critical acclaim based on collaboration graphs
+
+- Analyze how network structure of a cast affects movie performance
+
+### Data Sources:
+
+- IMDb datasets (https://www.imdb.com/interfaces/)
+
+- The Movie Database (TMDb) API
+
+---
