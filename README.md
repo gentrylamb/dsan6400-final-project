@@ -1,15 +1,16 @@
 # Title
 
-This project explores netwwork analysis and machine learning techniques ... 
+This project explores network analysis and machine learning techniques ... 
 ## Team
-- Memeber 1 - David Corcoran
-- Memeber 2 - Gentry Lamb
-- Memeber 3 - Adam Stein
+- Memebr 1 - David Corcoran
+- Memebr 2 - Gentry Lamb
+- Memebr 3 - Adam Stein
 
 ## Repository Structure
 
 ```
 ├── README.md                         # Main project overview and instructions.
+├── requirements.txt                  # List all the packages and librariesneeded for the project to run.
 ├── code/                             # Jupyter notebooks for each major step of the project.
     ├── data_cleaning.ipynb               # Scripts for cleaning and preparing raw data.
     ├── eda.ipynb                         # Exploratory Data Analysis: visualizations and summary stats.
