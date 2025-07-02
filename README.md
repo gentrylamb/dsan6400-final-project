@@ -2,9 +2,9 @@
 
 This project explores network analysis and machine learning techniques ... 
 ## Team
-- Memebr 1 - David Corcoran
-- Memebr 2 - Gentry Lamb
-- Memebr 3 - Adam Stein
+- Member 1 - David Corcoran
+- Member 2 - Gentry Lamb
+- Member 3 - Adam Stein
 
 ## Repository Structure
 
@@ -15,7 +15,7 @@ This project explores network analysis and machine learning techniques ...
     ├── data_cleaning.ipynb               # Scripts for cleaning and preparing raw data.
     ├── eda.ipynb                         # Exploratory Data Analysis: visualizations and summary stats.
 ├── data/                             # Data files.
-├── images/                           # Figures and plots generated during analysis and modeling.
+├── assets/                           # Figures and plots generated during analysis and modeling.
 └── report/                           # Final technical report and supporting files.
 ```
 
