@@ -9,6 +9,6 @@
   * Predicting Box Office Revenue for Movies, 1, 2015, M. Vitelli, SNAP - Stanford Network Analysis Project
 
 * Group member-3: Adam Stein
-  * article_title, current_number_of citation, year_published, first_author, last_author, journal_name
-  * article_title, current_number_of citation, year_published, first_author, last_author, journal_name
-  * article_title, current_number_of citation, year_published, first_author, last_author, journal_name
+  * Collective dynamics of ‘small-world’ networks, 34K Citations, 1998, Duncan Watts, Steven Strogatz, Nature
+  * A Survey of Graph Neural Networks for Recommender Systems: Challenges, Methods, and Directions, 355 Citations, 2021, Chen Gao, Yong Li, ACM Transactions on Recommender Systems 
+  * Graph Convolutional Neural Network for Multimodal Movie Recommendation, 8 citations, 2023, Prabir Mondal, Naoyuki Onoe, Association for Computing Machinery
